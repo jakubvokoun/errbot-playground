@@ -1,0 +1,9 @@
+[Core]
+Name = ChuckNorris
+Module = chucknorris
+
+[Documentation]
+Description = Chuck Norris never sleeps. He waits.
+
+[Python]
+Version = 2+
