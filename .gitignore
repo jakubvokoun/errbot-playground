@@ -1,0 +1,8 @@
+#
+*.pyc
+
+# This file contains configuration
+environment
+
+# Don't store config files
+errbot-data/*

@@ -1,0 +1,32 @@
+# This is sample environment file
+# Create file named `environment` 
+
+BOT_BACKEND=Slack
+
+BOT_TOKEN=xoxb-XXXXXX
+
+#CORE_PLUGINS= Help,Webserver,CommandNotFoundFilter
+ 
+CORE_PLUGINS=Help,Webserver,CommandNotFoundFilter,Utils
+
+# space delimited
+BOT_ALT_PREFIXES = @glivien
+
+# space delimited
+BOT_ADMINS = @verosk
+
+BOT_ADMINS_NOTIFICATION = @verosk
+
+BOT_LOG_LEVEL = INFO
+#BOT_LOG_LEVEL = DEBUG
+#
+BOT_PREFIX_OPTIONAL_ON_CHAT = 1
+
+DIVERT_TO_PRIVATE=help,about,status
+
+BOT_DATA_DIR=./errbot-data
+
+BOT_EXTRA_PLUGIN_DIR=./plugins
+
+BOT_LOG_FILE = /tmp/errbot.log
+
