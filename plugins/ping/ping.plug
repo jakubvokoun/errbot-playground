@@ -1,0 +1,9 @@
+[Core]
+Name = Ping
+Module = ping
+
+[Documentation]
+Description = This plugin implements famous ping command
+
+[Python]
+Version = 3
