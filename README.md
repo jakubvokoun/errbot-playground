@@ -47,6 +47,10 @@ Some basic commands
 
   * `!color_msg [--title "Foo"] [--body "bar"] green` - `send_card` example
 
+  * `!send_file` - sends text file
+ 
+  * `!send_image` - sends image
+
 You can send the commands to the bot directly (without `!` prefix). You can also send the room
 which the bot listens to - you should use the `!` prefix then.
 

@@ -1,0 +1,9 @@
+[Core]
+Name = Attachment
+Module = attachment
+
+[Documentation]
+Description = Attachment test
+
+[Python]
+Version = 2+
