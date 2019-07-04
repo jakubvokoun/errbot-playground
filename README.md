@@ -45,6 +45,8 @@ Some basic commands
 
   * `!restore` - flow example
 
+  * `!color_msg [--title "Foo"] [--body "bar"] green` - `send_card` example
+
 You can send the commands to the bot directly (without `!` prefix). You can also send the room
 which the bot listens to - you should use the `!` prefix then.
 

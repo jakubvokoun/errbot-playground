@@ -1,0 +1,9 @@
+[Core]
+Name = Fancy
+Module = fancy
+
+[Documentation]
+Description = Fancy output
+
+[Python]
+Version = 2+
