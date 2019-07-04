@@ -43,6 +43,8 @@ Some basic commands
 
   * Try to mention Chuck Noris. The bot should reply with Chuck Norris joke.
 
+  * `!restore` - flow example
+
 You can send the commands to the bot directly (without `!` prefix). You can also send the room
 which the bot listens to - you should use the `!` prefix then.
 

@@ -1,0 +1,9 @@
+[Core]
+Name = restore_flows
+Module = restore_flows
+
+[Documentation]
+Description = Restore flow test
+
+[Python]
+Version = 2+

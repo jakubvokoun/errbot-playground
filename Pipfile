@@ -10,12 +10,13 @@ pytest = "*"
 [packages]
 fiobank = "*"
 markdown = "==2.6.11"
-errbot = {extras = ["slack"],version = ">=6.0"}
+errbot = {version = ">=6.0",extras = ["slack"]}
 slackclient = "<2.0"
 humanize = "*"
 python-dotenv = "*"
 python-dateutil = "*"
 raven = "*"
+namegenerator = "*"
 
 [requires]
 python_version = "3.6"
